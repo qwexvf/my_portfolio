@@ -1,0 +1,13 @@
+{
+  "title": "My Sweet Blog Title",
+  "created_at": "2019-02-06T00:00:00.000Z",
+  "description": "Blog Post Description.",
+  "slug": "my-sweet-blog-title",
+  "bodyContent": "## Hello World!\n\nActual post\n\netc....",
+  "bodyHtml": "<h2>Hello World!</h2>\n<p>Actual post</p>\n<p>etc....</p>\n",
+  "dir": "content/posts/json",
+  "base": "2019-02-06-test5.json",
+  "ext": ".json",
+  "sourceBase": "2019-02-06-test5.md",
+  "sourceExt": ".md"
+}

@@ -1,0 +1,16 @@
+{
+  "fileMap": {
+    "content/posts/json/2019-02-06-test.json": {
+      "title": "My Sweet Blog Title",
+      "created_at": "2019-02-06T00:00:00.000Z",
+      "dir": "content/posts/json",
+      "base": "2019-02-06-test.json",
+      "ext": ".json",
+      "sourceBase": "2019-02-06-test.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "./content/posts/2019-02-06-test.md"
+  ]
+}
