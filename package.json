@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "description": "Nuxt.js TypeScript project",
+  "version": "2.4.5",
+  "private": true,
+  "dependencies": {
+    "@nuxtjs/axios": "5.4.1",
+    "@vuikit/icons": "^0.8.1",
+    "@vuikit/theme": "^0.8.1",
+    "nuxt-property-decorator": "2.1.3",
+    "nuxt-ts": "2.4.5",
+    "processmd": "^4.4.2",
+    "uikit": "^3.0.3",
+    "vuex-class": "0.3.1",
+    "vuikit": "^0.8.10"
+  },
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  },
+  "devDependencies": {
+    "@nuxt/vue-app": "2.4.5",
+    "@types/node": "10.12.30",
+    "@types/webpack-env": "1.13.9"
+  }
+}
