@@ -16,7 +16,13 @@ export default {
   build: {},
   modules: [
     "@nuxtjs/axios",
+    '@nuxtjs/pwa'
   ],
   axios: {},
-  plugins: ['~/plugins/vuikit']
+  plugins: ['~/plugins/vuikit'],
+
+  manifest: {
+    name: 'My Awesome App',
+    lang: 'fa'
+  }
 }

@@ -3,8 +3,7 @@
     <div 
       v-for="(post, index) in posts"
       :key="index"
-      class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin"
-      uk-grid
+      class="uk-card uk-card-default uk-card-hover uk-card-body uk-width-1-2@m"
       >
       <div>
         <div class="uk-card-body">
